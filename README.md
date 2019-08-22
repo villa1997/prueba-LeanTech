@@ -1,3 +1,13 @@
+# install dependencies
+
+you run the npm install command from your windows console once located in the main folder
+
+#contact
+
+Name: Cristian Humberto Henao Villa
+Email: henaovillac@gmail.com
+phone mobile: 3008345394
+
 # LeanTech
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
